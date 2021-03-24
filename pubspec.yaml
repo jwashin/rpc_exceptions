@@ -1,6 +1,6 @@
 name: rpc_exceptions
 description: A collection of handy Exceptions for JSON-RPC implementation.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/jwashin/rpc_exceptions
 
 environment:
