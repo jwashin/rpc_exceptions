@@ -2,7 +2,7 @@ A collection of possibly useful Exception classes for JSON-RPC implementation.
 
 [license][license]
 
-[license]: https://github.com/jwashin/rpc_exceptions/LICENSE
+[license]: https://github.com/jwashin/rpc_exceptions/blob/master/LICENSE
 
 ## Usage
 
